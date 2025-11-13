@@ -22,3 +22,5 @@ class Disciplina:
     def definir_carga_horaria(self, horas):
         self.carga_horaria = horas
 
+    def obter_carga_horaria(self):
+
